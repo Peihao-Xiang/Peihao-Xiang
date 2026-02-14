@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on multimodal learning of AI embedded system.
 - 🚀 Homepage: https://peihao-xiang.github.io/
 - 📫 How to reach me pxiang@fiu.edu.
-
 - ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Peihao-Xiang.Peihao-Xiang)
 
 <!---
