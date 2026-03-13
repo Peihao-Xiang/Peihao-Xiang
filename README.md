@@ -2,7 +2,7 @@
 - 😎 LOL! I'm a Ph.D. Candidate student in the Department of Electrical & Computer Engineering at Florida International University.
 - 👀 I’m interested in Computer Vision, Deep Learning, Embedded System, Model Compression, Multimodal LLM.
 - 🌱 I’m currently working as a Graduate Research Assistant in Dr. Ou Bai's Human Cyber-Physical Systems (HCPS) Laboratory.
-- 🧪 My research work is on AI-Powered Wearable Multimodal Multi-Task Real-Time Dynamic Behavior Analysis LLM System.
+- 🧪 My research work is on AI-Powered Wearable Multimodal Multi-Task Real-Time Dynamic Behavior Analysis VLM System.
 - 🚀 I’m looking to collaborate on multimodal learning of AI embedded system.
 - 🏠 Homepage: https://peihao-xiang.github.io/
 - 📫 How to reach me pxiang@fiu.edu.
